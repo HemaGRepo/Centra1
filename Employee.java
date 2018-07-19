@@ -1,2 +1,3 @@
+@Bean
 class Employee{
 }
